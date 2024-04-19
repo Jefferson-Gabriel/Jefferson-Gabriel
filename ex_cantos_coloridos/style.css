@@ -1,0 +1,40 @@
+#esqcima {
+    
+    border: 5px black solid; border-radius: 15px;
+    margin-right: 84%;
+    padding-bottom: 30px;
+    line-height: 100px;
+    text-align: center;
+    background-color: red;
+    position: relative; bottom: 20px;
+}
+
+#esqbaixo {
+    border: 5px black solid; border-radius: 15px;
+    margin-right: 84%;
+    padding-bottom: 30px;
+    line-height: 100px;
+    text-align: center;
+    background-color: blue;
+    position: relative; top: 160px;
+}
+
+#dircima {
+    position: relative; bottom: 344px; left:42cm;
+    border: 5px black solid; border-radius: 15px;
+    margin-right: 84%;
+    padding-bottom: 30px;
+    line-height: 100px;
+    text-align: center;
+    background-color: green;
+}
+
+#dirbaixo { 
+    position: relative; left:42cm; bottom: 170px;
+    border: 5px black solid; border-radius: 15px;
+    margin-right: 84%;
+    padding-bottom: 30px;
+    line-height: 100px;
+    text-align: center;
+    background-color: yellow;
+}
