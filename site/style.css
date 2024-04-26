@@ -1,0 +1,16 @@
+.cabecalho img {
+    width: 10%;
+    position: relative;
+    left: 50px;
+}
+
+.cabecalho h1 {
+    color: aqua;
+    text-align: center;
+    position: relative;
+    bottom: 147px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:200%;
+    border: 5px black solid; margin: 1px; padding: 50px;
+    background-color: gray;
+}
